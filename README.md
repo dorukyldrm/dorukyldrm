@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ÜST BANNER (Dış API Bağımlılığı Olmayan %100 Kırılmaz HTML Card) -->
+<!-- ÜST BANNER (Gradient HTML Card) -->
 <table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1f2633 100%); border: 1px solid #30363d; border-radius: 12px; padding: 25px 10px; margin-bottom: 15px;">
   <tr>
     <td align="center">
@@ -141,109 +141,133 @@
 
 <br>
 
-<!-- TEMEL YETKİNLİKLER -->
+<!-- TEMEL YETKİNLİKLER (GRID KART TASARIMI) -->
 <h3 style="color: #f0f6fc;">Temel Yetkinlikler & Uzmanlık</h3>
 
-<div align="center" style="margin-bottom: 15px;">
-  <a href="https://github.com/dorukyldrm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/doruk-emir-yildirim-8393b93a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
-<table width="100%" style="border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr style="border-bottom: 2px solid #30363d; background: #161b22;">
-      <th style="padding: 10px; color: #f0f6fc;">Alan</th>
-      <th style="padding: 10px; color: #f0f6fc;">Açıklama</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Ürün Yönetimi</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>İş Modeli Tasarımı</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">BMC, Lean Canvas, Go-to-Market stratejileri</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Proje Yönetimi (PCM)</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">Planlama, izleme, paydaş yönetimi</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Yapay Zeka Stratejisi</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">LLM entegrasyonu, AI ürün geliştirme</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; color: #ffffff;"><b>Müşteri Deneyimi (CX)</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">Kullanıcı araştırması, yolculuk haritası</td>
-    </tr>
-  </tbody>
+<table width="100%" style="border-collapse: separate; border-spacing: 10px; background: transparent;">
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Ürün Yönetimi</div>
+      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü, yol haritası (roadmap) ve stratejik planlama.</div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">İş Modeli Tasarımı</div>
+      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">BMC, Lean Canvas, gelir modelleri ve pazara giriş (Go-to-Market) stratejileri.</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Proje Yönetimi (PCM)</div>
+      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Proje döngüsü yönetimi, zaman/kaynak planlaması, izleme ve paydaş yönetimi.</div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Yapay Zeka Stratejisi</div>
+      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">LLM entegrasyonu, prompt mühendisliği ve yapay zeka ürün ticarileştirme.</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Müşteri Deneyimi (CX)</div>
+      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Kullanıcı araştırması, deneyim haritaları, geri bildirim optimizasyonu ve Churn yönetimi.</div>
+    </td>
+  </tr>
 </table>
 
 <br><br>
 
-<!-- SERTİFİKALAR -->
+<!-- SERTİFİKALAR (GRID KART TASARIMI) -->
 <h3 style="color: #f0f6fc;">Sertifikalar & Eğitimler</h3>
 
-<table width="100%" style="border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr style="border-bottom: 2px solid #30363d; background: #161b22;">
-      <th style="padding: 10px; color: #f0f6fc;">Sertifika Adı</th>
-      <th style="padding: 10px; color: #f0f6fc;">Kurum</th>
-      <th style="padding: 10px; color: #f0f6fc;">Tarih</th>
-      <th style="padding: 10px; color: #f0f6fc;">Odak Alanı</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Start Writing Prompts like a Pro</b><br><sub style="color:#8b949e;">ID: 9KYKEXPAY7TF</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">Google</td>
-      <td style="padding: 10px; color: #8b949e;">Haziran 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Prompt & AI</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Sosyal Medyada İçerik Üretimi & Görsel Dil</b><br><sub style="color:#8b949e;">ID: xoBBUN6ayVZ</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">BTK Akademi</td>
-      <td style="padding: 10px; color: #8b949e;">Haziran 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Storytelling</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Google AI</b><br><sub style="color:#8b949e;">ID: I99QO85FAQJJ</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">Google</td>
-      <td style="padding: 10px; color: #8b949e;">Haziran 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">AI & LLM</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>NotebookLM</b><br><sub style="color:#8b949e;">ID: rKjhardAk2</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">BTK Akademi</td>
-      <td style="padding: 10px; color: #8b949e;">Mayıs 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Knowledge AI</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Rusça A1 Dil Sertifikası</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">Çağrı Dil</td>
-      <td style="padding: 10px; color: #8b949e;">Ekim 2025</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Linguistics</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>YCMUN 25 Katılım Belgesi</b><br><sub style="color:#8b949e;">ID: NDg3OTE</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">YÜCE Okulları</td>
-      <td style="padding: 10px; color: #8b949e;">Aralık 2025</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Negotiation</code></td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px; color: #ffffff;"><b>Data Literacy</b></td>
-      <td style="padding: 10px; color: #c9d1d9;">IBM</td>
-      <td style="padding: 10px; color: #8b949e;">Nisan 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Data Literacy</code></td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; color: #ffffff;"><b>Introduction to AI</b><br><sub style="color:#8b949e;">ID: HJYUZHWH4F4Z</sub></td>
-      <td style="padding: 10px; color: #c9d1d9;">Google</td>
-      <td style="padding: 10px; color: #8b949e;">Mart 2026</td>
-      <td style="padding: 10px;"><code style="color: #58a6ff; background: #161b22; padding: 2px 6px; border-radius: 4px;">Artificial Intelligence</code></td>
-    </tr>
-  </tbody>
+<table width="100%" style="border-collapse: separate; border-spacing: 10px; background: transparent;">
+
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Start Writing Prompts like a Pro</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: 9KYKEXPAY7TF</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
+        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Prompt_%26_AI-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Sosyal Medyada İçerik Üretimi</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: xoBBUN6ayVZ</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/BTK_Akademi-cc0000?style=flat-square" alt="BTK"/>
+        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Storytelling-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Google AI</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: I99QO85FAQJJ</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
+        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/AI_%26_LLM-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">NotebookLM</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: rKjhardAk2</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/BTK_Akademi-cc0000?style=flat-square" alt="BTK"/>
+        <img src="https://img.shields.io/badge/May_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Knowledge_AI-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Data Literacy</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">IBM Sertifikasyonu</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>
+        <img src="https://img.shields.io/badge/Nis_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Data_Literacy-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Introduction to AI</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: HJYUZHWH4F4Z</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
+        <img src="https://img.shields.io/badge/Mar_2026-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- ROW 4 -->
+  <tr>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">YCMUN 25 Katılım Belgesi</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: NDg3OTE (MUNPoint)</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Y%C3%9CCE_Okullar%C4%B1-1f6feb?style=flat-square" alt="YUCE"/>
+        <img src="https://img.shields.io/badge/Ara_2025-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Negotiation-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Rusça A1 Dil Sertifikası</div>
+      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">Çağrı Dil Okulu</div>
+      <div style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/%C3%87a%C4%9Fr%C4%B1_Dil-238636?style=flat-square" alt="Cagri"/>
+        <img src="https://img.shields.io/badge/Eki_2025-0d1117?style=flat-square" alt="Date"/>
+        <img src="https://img.shields.io/badge/Linguistics-58a6ff?style=flat-square" alt="Focus"/>
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 <br><br>
