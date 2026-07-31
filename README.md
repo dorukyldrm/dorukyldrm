@@ -1,11 +1,18 @@
 <div align="center">
 
-<!-- ÜST BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:090d16&height=200&section=header&text=DORUK%20EMIR%20YILDIRIM&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Teknoloji%20Girisimcisi%20%26%20Dijital%20Urun%20Kurucusu&descAlignY=64&descSize=15&descColor=8b949e" width="100%" alt="Header Banner"/>
+<!-- ÜST BANNER (Dış API Bağımlılığı Olmayan %100 Kırılmaz HTML Card) -->
+<table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1f2633 100%); border: 1px solid #30363d; border-radius: 12px; padding: 25px 10px; margin-bottom: 15px;">
+  <tr>
+    <td align="center">
+      <h1 style="font-size: 32px; color: #ffffff; margin: 0; font-family: 'Space Grotesk', sans-serif; letter-spacing: 2px;">DORUK EMİR YILDIRIM</h1>
+      <p style="color: #8b949e; font-size: 15px; margin: 8px 0 0 0;">Teknoloji Girişimcisi & Dijital Ürün Kurucusu</p>
+    </td>
+  </tr>
+</table>
 
 <!-- DİNAMİK YAZI EFEKTİ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=F0F6FC&center=true&vCenter=true&width=550&height=50&lines=Dijital+Urun+Kurucusu;Yapay+Zeka+Entegratoru;Teknoloji+Girisimcisi;Izmir%2C+Turkiye" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=F0F6FC&center=true&vCenter=true&width=550&height=45&lines=Dijital+Urun+Kurucusu;Yapay+Zeka+Entegratoru;Teknoloji+Girisimcisi;Izmir%2C+Turkiye" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -244,19 +251,6 @@
 <!-- GELİŞTİRİCİ METRİKLERİ -->
 <h3 style="color: #f0f6fc;">Geliştirici Metrikleri</h3>
 
-<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="50%" valign="top" style="border: none; padding-right: 8px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dorukyldrm&show_icons=true&theme=tokyonight&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=false" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 8px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukyldrm&layout=compact&theme=tokyonight&bg_color=161b22&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dorukyldrm&theme=tokyonight&background=161b22&border=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="100%" alt="Streak Stats" />
 </div>
@@ -273,7 +267,7 @@
 <br><br>
 
 <!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<div align="center" style="margin-top: 20px;">
+  <hr style="border: 0; height: 1px; background: #30363d; margin-bottom: 20px;" />
   <sub style="color: #8b949e;">© 2026 Doruk Emir Yıldırım — Bu profil sürekli güncellenmektedir.</sub>
 </div>
