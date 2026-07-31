@@ -141,133 +141,169 @@
 
 <br>
 
-<!-- TEMEL YETKİNLİKLER (GRID KART TASARIMI) -->
+<!-- TEMEL YETKİNLİKLER (VURGULANMIŞ RENKLİ KARTLAR) -->
 <h3 style="color: #f0f6fc;">Temel Yetkinlikler & Uzmanlık</h3>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px; background: transparent;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #58a6ff; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Ürün Yönetimi</div>
-      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü, yol haritası (roadmap) ve stratejik planlama.</div>
-    </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">İş Modeli Tasarımı</div>
-      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">BMC, Lean Canvas, gelir modelleri ve pazara giriş (Go-to-Market) stratejileri.</div>
+    <td>
+      <h4 style="margin: 0; color: #58a6ff; font-size: 15px;">Ürün Yönetimi</h4>
+      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü, yol haritası (roadmap) ve stratejik planlama.</p>
     </td>
   </tr>
+</table>
+
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #5e17eb; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Proje Yönetimi (PCM)</div>
-      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Proje döngüsü yönetimi, zaman/kaynak planlaması, izleme ve paydaş yönetimi.</div>
-    </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Yapay Zeka Stratejisi</div>
-      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">LLM entegrasyonu, prompt mühendisliği ve yapay zeka ürün ticarileştirme.</div>
+    <td>
+      <h4 style="margin: 0; color: #9b59b6; font-size: 15px;">İş Modeli Tasarımı</h4>
+      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">BMC, Lean Canvas, gelir modelleri ve pazara giriş (Go-to-Market) stratejileri.</p>
     </td>
   </tr>
+</table>
+
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1f6feb; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td colspan="2" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
-      <div style="font-size: 15px; font-weight: bold; color: #58a6ff; margin-bottom: 6px;">Müşteri Deneyimi (CX)</div>
-      <div style="font-size: 13px; color: #8b949e; line-height: 1.4;">Kullanıcı araştırması, deneyim haritaları, geri bildirim optimizasyonu ve Churn yönetimi.</div>
+    <td>
+      <h4 style="margin: 0; color: #1f6feb; font-size: 15px;">Proje Yönetimi (PCM)</h4>
+      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Proje döngüsü yönetimi, zaman/kaynak planlaması, izleme ve paydaş yönetimi.</p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #d29922; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td>
+      <h4 style="margin: 0; color: #d29922; font-size: 15px;">Yapay Zeka Stratejisi</h4>
+      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">LLM entegrasyonu, prompt mühendisliği ve yapay zeka ürün ticarileştirme.</p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td>
+      <h4 style="margin: 0; color: #238636; font-size: 15px;">Müşteri Deneyimi (CX)</h4>
+      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Kullanıcı araştırması, deneyim haritaları, geri bildirim optimizasyonu ve Churn yönetimi.</p>
     </td>
   </tr>
 </table>
 
 <br><br>
 
-<!-- SERTİFİKALAR (GRID KART TASARIMI) -->
+<!-- SERTİFİKALAR (KURUMSAL VURGULU BAĞIMSIZ KARTLAR) -->
 <h3 style="color: #f0f6fc;">Sertifikalar & Eğitimler</h3>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 10px; background: transparent;">
-
-  <!-- ROW 1 -->
+<!-- GOOGLE PROMPTS -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Start Writing Prompts like a Pro</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: 9KYKEXPAY7TF</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
-        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Prompt_%26_AI-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Start Writing Prompts like a Pro</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: 9KYKEXPAY7TF</div>
     </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Sosyal Medyada İçerik Üretimi</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: xoBBUN6ayVZ</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/BTK_Akademi-cc0000?style=flat-square" alt="BTK"/>
-        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Storytelling-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
+      <img src="https://img.shields.io/badge/Prompt_%26_AI-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 2 -->
+<!-- BTK İÇERİK -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Google AI</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: I99QO85FAQJJ</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
-        <img src="https://img.shields.io/badge/Haz_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/AI_%26_LLM-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Sosyal Medyada İçerik Üretimi & Görsel Dil</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: xoBBUN6ayVZ</div>
     </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">NotebookLM</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: rKjhardAk2</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/BTK_Akademi-cc0000?style=flat-square" alt="BTK"/>
-        <img src="https://img.shields.io/badge/May_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Knowledge_AI-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/BTK_Akademi-EA4335?style=flat-square" alt="BTK"/><br>
+      <img src="https://img.shields.io/badge/Storytelling-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 3 -->
+<!-- GOOGLE AI -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Data Literacy</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">IBM Sertifikasyonu</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>
-        <img src="https://img.shields.io/badge/Nis_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Data_Literacy-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Google AI</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: I99QO85FAQJJ</div>
     </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Introduction to AI</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: HJYUZHWH4F4Z</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
-        <img src="https://img.shields.io/badge/Mar_2026-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
+      <img src="https://img.shields.io/badge/AI_%26_LLM-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 4 -->
+<!-- BTK NOTEBOOKLM -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
   <tr>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">YCMUN 25 Katılım Belgesi</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">ID: NDg3OTE (MUNPoint)</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/Y%C3%9CCE_Okullar%C4%B1-1f6feb?style=flat-square" alt="YUCE"/>
-        <img src="https://img.shields.io/badge/Ara_2025-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Negotiation-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">NotebookLM</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: rKjhardAk2</div>
     </td>
-    <td width="50%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-      <div style="font-size: 14px; font-weight: bold; color: #ffffff;">Rusça A1 Dil Sertifikası</div>
-      <div style="font-size: 11px; color: #8b949e; margin-top: 2px;">Çağrı Dil Okulu</div>
-      <div style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/%C3%87a%C4%9Fr%C4%B1_Dil-238636?style=flat-square" alt="Cagri"/>
-        <img src="https://img.shields.io/badge/Eki_2025-0d1117?style=flat-square" alt="Date"/>
-        <img src="https://img.shields.io/badge/Linguistics-58a6ff?style=flat-square" alt="Focus"/>
-      </div>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/BTK_Akademi-EA4335?style=flat-square" alt="BTK"/><br>
+      <img src="https://img.shields.io/badge/Knowledge_AI-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
     </td>
   </tr>
+</table>
 
+<!-- IBM DATA LITERACY -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #052FAD; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Data Literacy</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">IBM Sertifikasyonu</div>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/><br>
+      <img src="https://img.shields.io/badge/Data_Literacy-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
+    </td>
+  </tr>
+</table>
+
+<!-- GOOGLE INTRO TO AI -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Introduction to AI</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: HJYUZHWH4F4Z</div>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
+      <img src="https://img.shields.io/badge/AI-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
+    </td>
+  </tr>
+</table>
+
+<!-- YCMUN -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1F6FEB; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">YCMUN 25 Katılım Belgesi</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: NDg3OTE (MUNPoint Doğrulamalı)</div>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Y%C3%9CCE_Okullar%C4%B1-1F6FEB?style=flat-square" alt="YUCE"/><br>
+      <img src="https://img.shields.io/badge/Negotiation-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
+    </td>
+  </tr>
+</table>
+
+<!-- ÇAĞRI DİL -->
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+  <tr>
+    <td width="70%" valign="top">
+      <b style="color: #ffffff; font-size: 14px;">Rusça A1 Dil Sertifikası</b>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Çağrı Dil Okulu</div>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="https://img.shields.io/badge/%C3%87a%C4%9Fr%C4%B1_Dil-238636?style=flat-square" alt="Cagri"/><br>
+      <img src="https://img.shields.io/badge/Linguistics-58a6ff?style=flat-square" alt="Focus" style="margin-top: 4px;"/>
+    </td>
+  </tr>
 </table>
 
 <br><br>
