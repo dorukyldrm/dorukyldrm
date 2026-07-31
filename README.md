@@ -136,6 +136,98 @@
 
 <br><br>
 
+<!-- LİSANSLAR VE SERTİFİKALAR -->
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/award.svg" width="22" style="vertical-align: text-bottom;" /> Lisanslar & Sertifikalar
+</h3>
+<hr>
+
+<table width="100%" style="border-collapse: collapse; border-spacing: 0;">
+  <tr style="border-bottom: 1px solid #30363d;">
+    <th align="left" style="padding: 10px; color:#8b949e; font-size:12px; font-weight:600;">SERTİFİKA</th>
+    <th align="left" style="padding: 10px; color:#8b949e; font-size:12px; font-weight:600;">KURUM</th>
+    <th align="left" style="padding: 10px; color:#8b949e; font-size:12px; font-weight:600;">TARİH</th>
+    <th align="left" style="padding: 10px; color:#8b949e; font-size:12px; font-weight:600;">YETENEKLER</th>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>Start Writing Prompts like a Pro</b><br><sub style="color:#8b949e;">ID: 9KYKEXPAY7TF</sub></td>
+    <td style="padding: 12px;">Google</td>
+    <td style="padding: 12px;">Haziran 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Prompt-111111?style=flat-square" alt="Prompt">
+      <img src="https://img.shields.io/badge/-AI-111111?style=flat-square" alt="AI">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>Sosyal Medyada İçerik Üretim Süreci, Hikâye Anlatıcılığı ve Görsel Dil</b><br><sub style="color:#8b949e;">ID: xoBBUN6ayVZ</sub></td>
+    <td style="padding: 12px;">BTK Akademi</td>
+    <td style="padding: 12px;">Haziran 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Hikaye_Anlatıcılığı-111111?style=flat-square" alt="Storytelling">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>Google AI</b><br><sub style="color:#8b949e;">ID: I99QO85FAQJJ</sub></td>
+    <td style="padding: 12px;">Google</td>
+    <td style="padding: 12px;">Haziran 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Prompt-111111?style=flat-square" alt="Prompt">
+      <img src="https://img.shields.io/badge/-AI-111111?style=flat-square" alt="AI">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>NotebookLM</b><br><sub style="color:#8b949e;">ID: rKjhardAk2</sub></td>
+    <td style="padding: 12px;">BTK Akademi</td>
+    <td style="padding: 12px;">Mayıs 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-AI-111111?style=flat-square" alt="AI">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>Rusça A1 Dil Sertifikası</b></td>
+    <td style="padding: 12px;">Çağrı Dil</td>
+    <td style="padding: 12px;">Ekim 2025<br><sub style="color:#8b949e;">Oca 2026'da sona erdi</sub></td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Rusça-111111?style=flat-square" alt="Russian">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>YCMUN 25 Katılım Belgesi</b><br><sub style="color:#8b949e;">ID: NDg3OTE · MUNPoint doğrulamalı</sub></td>
+    <td style="padding: 12px;">YÜCE Okulları</td>
+    <td style="padding: 12px;">Aralık 2025</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Politika_Analizi-111111?style=flat-square" alt="Policy Analysis">
+      <img src="https://img.shields.io/badge/-İngilizce-111111?style=flat-square" alt="English">
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #30363d;">
+    <td style="padding: 12px;"><b>Data Literacy</b></td>
+    <td style="padding: 12px;">IBM</td>
+    <td style="padding: 12px;">Nisan 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-Bilgi_Okur_Yazarlığı-111111?style=flat-square" alt="Data Literacy">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 12px;"><b>Introduction to AI</b><br><sub style="color:#8b949e;">ID: HJYUZHWH4F4Z</sub></td>
+    <td style="padding: 12px;">Google</td>
+    <td style="padding: 12px;">Mart 2026</td>
+    <td style="padding: 12px;">
+      <img src="https://img.shields.io/badge/-AI-111111?style=flat-square" alt="AI">
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 <!-- GITHUB AKTİVİTE GRAFİĞİ -->
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/activity.svg" width="22" style="vertical-align: text-bottom;" /> Katkı Aktivitesi
