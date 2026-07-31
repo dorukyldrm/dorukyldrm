@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ÜST BANNER (Gradient HTML Card) -->
-<table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1f2633 100%); border: 1px solid #30363d; border-radius: 12px; padding: 25px 10px; margin-bottom: 15px;">
+<!-- ÜST BANNER (Awesome HTML Gradient Card) -->
+<table width="100%" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1f2633 100%); border: 1px solid #30363d; border-radius: 12px; padding: 28px 10px; margin-bottom: 15px;">
   <tr>
     <td align="center">
-      <h1 style="font-size: 32px; color: #ffffff; margin: 0; font-family: 'Space Grotesk', sans-serif; letter-spacing: 2px;">DORUK EMİR YILDIRIM</h1>
+      <h1 style="font-size: 34px; color: #ffffff; margin: 0; font-family: 'Space Grotesk', sans-serif; letter-spacing: 2px;">DORUK EMİR YILDIRIM</h1>
       <p style="color: #8b949e; font-size: 15px; margin: 8px 0 0 0;">Teknoloji Girişimcisi & Dijital Ürün Kurucusu</p>
     </td>
   </tr>
@@ -141,65 +141,90 @@
 
 <br>
 
-<!-- TEMEL YETKİNLİKLER (VURGULANMIŞ RENKLİ KARTLAR) -->
+<!-- TEMEL YETKİNLİKLER & UZMANLIK (AWESOME SHOWCASE CARDS) -->
 <h3 style="color: #f0f6fc;">Temel Yetkinlikler & Uzmanlık</h3>
 
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #58a6ff; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #58a6ff; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td>
-      <h4 style="margin: 0; color: #58a6ff; font-size: 15px;">Ürün Yönetimi</h4>
-      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü, yol haritası (roadmap) ve stratejik planlama.</p>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none; background: transparent;">
+          <td style="border: none;"><b style="color: #58a6ff; font-size: 15px;">Ürün Yönetimi</b></td>
+          <td align="right" style="border: none;"><code style="color: #58a6ff; background: #0d1117; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Product Lifecycle</code></td>
+        </tr>
+      </table>
+      <p style="margin: 6px 0 0 0; color: #c9d1d9; font-size: 13px; line-height: 1.5;">Sıfırdan lansmana kadar tam ürün yaşam döngüsü, yol haritası (roadmap) ve stratejik planlama.</p>
     </td>
   </tr>
 </table>
 
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #5e17eb; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #9b59b6; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td>
-      <h4 style="margin: 0; color: #9b59b6; font-size: 15px;">İş Modeli Tasarımı</h4>
-      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">BMC, Lean Canvas, gelir modelleri ve pazara giriş (Go-to-Market) stratejileri.</p>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none; background: transparent;">
+          <td style="border: none;"><b style="color: #9b59b6; font-size: 15px;">İş Modeli Tasarımı</b></td>
+          <td align="right" style="border: none;"><code style="color: #9b59b6; background: #0d1117; padding: 2px 8px; border-radius: 4px; font-size: 11px;">GTM & Business Canvas</code></td>
+        </tr>
+      </table>
+      <p style="margin: 6px 0 0 0; color: #c9d1d9; font-size: 13px; line-height: 1.5;">BMC, Lean Canvas, gelir modelleri ve pazara giriş (Go-to-Market) stratejileri.</p>
     </td>
   </tr>
 </table>
 
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1f6feb; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1f6feb; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td>
-      <h4 style="margin: 0; color: #1f6feb; font-size: 15px;">Proje Yönetimi (PCM)</h4>
-      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Proje döngüsü yönetimi, zaman/kaynak planlaması, izleme ve paydaş yönetimi.</p>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none; background: transparent;">
+          <td style="border: none;"><b style="color: #1f6feb; font-size: 15px;">Proje Yönetimi (PCM)</b></td>
+          <td align="right" style="border: none;"><code style="color: #1f6feb; background: #0d1117; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Project Cycle</code></td>
+        </tr>
+      </table>
+      <p style="margin: 6px 0 0 0; color: #c9d1d9; font-size: 13px; line-height: 1.5;">Proje döngüsü yönetimi, zaman/kaynak planlaması, izleme ve paydaş yönetimi.</p>
     </td>
   </tr>
 </table>
 
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #d29922; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #d29922; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td>
-      <h4 style="margin: 0; color: #d29922; font-size: 15px;">Yapay Zeka Stratejisi</h4>
-      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">LLM entegrasyonu, prompt mühendisliği ve yapay zeka ürün ticarileştirme.</p>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none; background: transparent;">
+          <td style="border: none;"><b style="color: #d29922; font-size: 15px;">Yapay Zeka Stratejisi</b></td>
+          <td align="right" style="border: none;"><code style="color: #d29922; background: #0d1117; padding: 2px 8px; border-radius: 4px; font-size: 11px;">AI & Commercialization</code></td>
+        </tr>
+      </table>
+      <p style="margin: 6px 0 0 0; color: #c9d1d9; font-size: 13px; line-height: 1.5;">LLM entegrasyonu, prompt mühendisliği ve yapay zeka ürün ticarileştirme.</p>
     </td>
   </tr>
 </table>
 
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td>
-      <h4 style="margin: 0; color: #238636; font-size: 15px;">Müşteri Deneyimi (CX)</h4>
-      <p style="margin: 4px 0 0 0; color: #c9d1d9; font-size: 13px;">Kullanıcı araştırması, deneyim haritaları, geri bildirim optimizasyonu ve Churn yönetimi.</p>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr style="border: none; background: transparent;">
+          <td style="border: none;"><b style="color: #238636; font-size: 15px;">Müşteri Deneyimi (CX)</b></td>
+          <td align="right" style="border: none;"><code style="color: #238636; background: #0d1117; padding: 2px 8px; border-radius: 4px; font-size: 11px;">User Journey & Churn</code></td>
+        </tr>
+      </table>
+      <p style="margin: 6px 0 0 0; color: #c9d1d9; font-size: 13px; line-height: 1.5;">Kullanıcı araştırması, deneyim haritaları, geri bildirim optimizasyonu ve Churn yönetimi.</p>
     </td>
   </tr>
 </table>
 
 <br><br>
 
-<!-- SERTİFİKALAR (KURUMSAL VURGULU BAĞIMSIZ KARTLAR) -->
+<!-- SERTİFİKALAR & EĞİTİMLER (TIMELINE SHOWCASE CARDS) -->
 <h3 style="color: #f0f6fc;">Sertifikalar & Eğitimler</h3>
 
 <!-- GOOGLE PROMPTS -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Start Writing Prompts like a Pro</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: 9KYKEXPAY7TF</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: 9KYKEXPAY7TF &bull; Haziran 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
@@ -209,11 +234,11 @@
 </table>
 
 <!-- BTK İÇERİK -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Sosyal Medyada İçerik Üretimi & Görsel Dil</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: xoBBUN6ayVZ</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: xoBBUN6ayVZ &bull; Haziran 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/BTK_Akademi-EA4335?style=flat-square" alt="BTK"/><br>
@@ -223,11 +248,11 @@
 </table>
 
 <!-- GOOGLE AI -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Google AI</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: I99QO85FAQJJ</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: I99QO85FAQJJ &bull; Haziran 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
@@ -237,11 +262,11 @@
 </table>
 
 <!-- BTK NOTEBOOKLM -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #EA4335; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">NotebookLM</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: rKjhardAk2</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: rKjhardAk2 &bull; Mayıs 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/BTK_Akademi-EA4335?style=flat-square" alt="BTK"/><br>
@@ -251,11 +276,11 @@
 </table>
 
 <!-- IBM DATA LITERACY -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #052FAD; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #052FAD; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Data Literacy</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">IBM Sertifikasyonu</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">IBM Sertifikasyonu &bull; Nisan 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/><br>
@@ -265,11 +290,11 @@
 </table>
 
 <!-- GOOGLE INTRO TO AI -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #4285F4; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Introduction to AI</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: HJYUZHWH4F4Z</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: HJYUZHWH4F4Z &bull; Mart 2026</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br>
@@ -279,11 +304,11 @@
 </table>
 
 <!-- YCMUN -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1F6FEB; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #1F6FEB; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">YCMUN 25 Katılım Belgesi</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">ID: NDg3OTE (MUNPoint Doğrulamalı)</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">ID: NDg3OTE (MUNPoint Doğrulamalı) &bull; Aralık 2025</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/Y%C3%9CCE_Okullar%C4%B1-1F6FEB?style=flat-square" alt="YUCE"/><br>
@@ -293,11 +318,11 @@
 </table>
 
 <!-- ÇAĞRI DİL -->
-<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 12px 16px; margin-bottom: 10px;">
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-left: 4px solid #238636; border-radius: 6px; padding: 14px 18px; margin-bottom: 12px;">
   <tr>
     <td width="70%" valign="top">
       <b style="color: #ffffff; font-size: 14px;">Rusça A1 Dil Sertifikası</b>
-      <div style="color: #8b949e; font-size: 11px; margin-top: 2px;">Çağrı Dil Okulu</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 3px;">Çağrı Dil Okulu &bull; Ekim 2025</div>
     </td>
     <td width="30%" align="right" valign="middle">
       <img src="https://img.shields.io/badge/%C3%87a%C4%9Fr%C4%B1_Dil-238636?style=flat-square" alt="Cagri"/><br>
