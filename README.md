@@ -102,7 +102,7 @@
     <td width="65%" valign="top" style="background: #161b22; border: 1px solid #30363d; border-left: none; border-radius: 0 8px 8px 0; padding: 15px;">
       <h4 style="margin: 0 0 8px 0; font-size: 16px; color: #ffffff;">Yapayiz AI</h4>
       <p style="margin: 0 0 10px 0; color: #8b949e; font-size: 13px;">
-        Yapay zeka odaklı modern araçları ve dijital ürün ekosistemlerini tek çatı altında toplayan teknoloji projesi.
+        Yapay zeka tespiti odaklı modern araçların dijital ürün ekosistemlerini tek çatı altında toplayan teknoloji projesi. Çok yakında...
       </p>
       <div style="margin-bottom: 10px;">
         <img src="https://img.shields.io/badge/Faz-Geli%C5%9Ftirme-d29922?style=flat-square" alt="Dev"/>
