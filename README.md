@@ -47,7 +47,7 @@
         İzmir merkezli bir girişimci olarak; ölçeklenebilir dijital platformlar tasarlıyor, yapay zeka entegrasyonlarını ticarileştiriyor ve küresel vizyona sahip teknoloji projeleri yönetiyorum.
       </p>
       <p style="color: #c9d1d9; line-height: 1.6;">
-        Ürün geliştirme sürecinin başından sonuna kadar <b>iş modeli tasarımı</b>, <b>büyüme stratejileri</b> ve <b>vizyoner liderlik</b> temel odak noktamdır.
+        Ürün geliştirme sürecinin başından sonuna kadar <b>iş modeli tasarımı</b>, <b>büyüme stratejileri</b>,<b>problemleri çözebilme</b> ve <b>vizyoner liderlik</b> temel odak noktamdır.
       </p>
       <blockquote style="color: #58a6ff; border-left: 3px solid #58a6ff; padding-left: 10px; margin-top: 15px;">
         <i>"Fikirleri ölçeklenebilir dijital ürünlere dönüştürüyorum."</i>
