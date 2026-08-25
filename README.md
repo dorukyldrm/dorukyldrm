@@ -338,8 +338,7 @@
       <div style="color: #f0f6fc; font-weight: 600; font-size: 14px; margin-bottom: 10px;">🌐 Canlı Ekosistem</div>
       <p style="color: #8b949e; font-size: 12px; line-height: 1.6; margin: 0;">
         &bull; <b>The Regret Wall:</b> <a href="https://www.theregretwall.com" target="_blank" style="color: #58a6ff;">theregretwall.com</a> (Yayında)<br>
-        &bull; <b>Yapayiz AI:</b> <a href="https://yapayizai.com" target="_blank" style="color: #58a6ff;">yapayizai.com</a> (Yayında)<br>
-        &bull; <b>GitHub:</b> <a href="https://github.com/dorukyldrm" target="_blank" style="color: #58a6ff;">@dorukyldrm</a> (Aktif Geliştirme)
+        &bull; <b>Yapayiz AI:</b> <a href="https://yapayizai.com" target="_blank" style="color: #58a6ff;">yapayizai.com</a> (Aktif Geliştirmede)<br>
       </p>
     </td>
   </tr>
