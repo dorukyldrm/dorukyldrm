@@ -294,19 +294,56 @@
 
 <br><br>
 
-<!-- GELİŞTİRİCİ & GİTHUB İSTATİSTİKLERİ (STABİL & HATASIZ) -->
-<h3 style="color: #f0f6fc;">Geliştirici İstatistikleri</h3>
+<!-- GELİŞTİRİCİ & ÜRÜN METRİKLERİ (ÖMÜR BOYU %100 STABİL) -->
+<h3 style="color: #f0f6fc;">Geliştirici & Ürün Metrikleri</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dorukyldrm&show_icons=true&theme=tokyonight&bg_color=161b22&border_color=30363d&text_color=c9d1d9&icon_color=58a6ff&title_color=f0f6fc&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukyldrm&layout=compact&theme=tokyonight&bg_color=161b22&border_color=30363d&text_color=c9d1d9&title_color=f0f6fc" width="49%" alt="Top Languages" />
-</div>
+<table width="100%" style="border-collapse: separate; border-spacing: 10px; background: transparent;">
+  <tr>
+    <td width="25%" align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px 10px;">
+      <div style="font-size: 26px; font-weight: bold; color: #58a6ff; font-family: 'Space Grotesk', sans-serif;">100M+</div>
+      <div style="color: #8b949e; font-size: 12px; margin-top: 5px; font-weight: 500;">LLM Tokens Orchestrated</div>
+      <div style="color: #58a6ff; font-size: 10px; margin-top: 3px;">Agentic AI & Pipeline</div>
+    </td>
+    <td width="25%" align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px 10px;">
+      <div style="font-size: 26px; font-weight: bold; color: #238636; font-family: 'Space Grotesk', sans-serif;">25</div>
+      <div style="color: #8b949e; font-size: 12px; margin-top: 5px; font-weight: 500;">Desteklenen Dil</div>
+      <div style="color: #238636; font-size: 10px; margin-top: 3px;">i18n & Kültürel Yerelleştirme</div>
+    </td>
+    <td width="25%" align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px 10px;">
+      <div style="font-size: 26px; font-weight: bold; color: #a371f7; font-family: 'Space Grotesk', sans-serif;">5.600+</div>
+      <div style="color: #8b949e; font-size: 12px; margin-top: 5px; font-weight: 500;">Optimize Edilmiş Sayfa</div>
+      <div style="color: #a371f7; font-size: 10px; margin-top: 3px;">Next.js App Router & SEO</div>
+    </td>
+    <td width="25%" align="center" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px 10px;">
+      <div style="font-size: 26px; font-weight: bold; color: #f0883e; font-family: 'Space Grotesk', sans-serif;">%100</div>
+      <div style="color: #8b949e; font-size: 12px; margin-top: 5px; font-weight: 500;">Sıfır PII & Anonimlik</div>
+      <div style="color: #f0883e; font-size: 10px; margin-top: 3px;">Privacy by Design</div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dorukyldrm&theme=tokyonight&background=161b22&border=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="100%" alt="Streak Stats" />
-</div>
+<table width="100%" style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px 20px;">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="color: #f0f6fc; font-weight: 600; font-size: 14px; margin-bottom: 10px;">⚡ Teknik & Mimari Odak Alanları</div>
+      <p style="color: #8b949e; font-size: 12px; line-height: 1.6; margin: 0;">
+        &bull; <b>Google Antigravity & LLM Ajanları:</b> Otonom kod analizi, güvenlik denetimleri ve bağlam yönetimi.<br>
+        &bull; <b>PostGIS & Geolocation:</b> Dünya çapında gerçek zamanlı mekansal koordinat ve harita sorguları.<br>
+        &bull; <b>Programatik SEO & GEO:</b> Google Arama Konsolu API otomasyonu ve yapay zeka arama motoru optimizasyonu.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border-left: 1px solid #30363d; padding-left: 20px;">
+      <div style="color: #f0f6fc; font-weight: 600; font-size: 14px; margin-bottom: 10px;">🌐 Canlı Ekosistem</div>
+      <p style="color: #8b949e; font-size: 12px; line-height: 1.6; margin: 0;">
+        &bull; <b>The Regret Wall:</b> <a href="https://www.theregretwall.com" target="_blank" style="color: #58a6ff;">theregretwall.com</a> (Yayında)<br>
+        &bull; <b>Yapayiz AI:</b> <a href="https://yapayizai.com" target="_blank" style="color: #58a6ff;">yapayizai.com</a> (Yayında)<br>
+        &bull; <b>GitHub:</b> <a href="https://github.com/dorukyldrm" target="_blank" style="color: #58a6ff;">@dorukyldrm</a> (Aktif Geliştirme)
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
